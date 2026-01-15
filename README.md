@@ -3,7 +3,7 @@ Trading in Spot Markets using Futures Open Interest
 This repository contains my first mini-project completed as part of the Executive Programme in Algorithmic Trading (EPAT). As I am just starting my journey in quantitative trading, this project focuses on building a foundational strategy that combines price trends with Open Interest (OI) analysis.
 
  View Notebook Online (Google Colab)
- https://colab.research.google.com/drive/1sz9fTbsma
+[ https://colab.research.google.com/drive/1sz9fTbsma](https://colab.research.google.com/drive/1sz9fTbsmahb1kqkm-JKRxXi0Hil8WpdU?usp=sharing)
 📌 Project Overview
 The goal of this project was to backtest a trading strategy that trades the underlying asset (spot market) based on trends confirmed by the derivatives market (Futures Open Interest).
 
